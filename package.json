@@ -1,0 +1,11 @@
+{
+  "name": "campsite",
+  "version": "1.0.0",
+  "description": "A basic camp listing appliction",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aayush Agarwal",
+  "license": "ISC"
+}
